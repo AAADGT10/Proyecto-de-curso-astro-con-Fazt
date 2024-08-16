@@ -1,0 +1,17 @@
+[
+    {
+        "title": "project 1",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet possimus a numquam impedit dolore ad vitae, expedita nobis accusamus suscipit libero sint. Accusamus saepe pariatur dignissimos atque eaque, eum harum!",
+        "image": "images/img-finger.svg"
+    },
+    {
+        "title": "project 2",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet possimus a numquam impedit dolore ad vitae, expedita nobis accusamus suscipit libero sint. Accusamus saepe pariatur dignissimos atque eaque, eum harum!",
+        "image": "images/img-finger.svg"
+    },
+    {
+        "title": "project 3",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet possimus a numquam impedit dolore ad vitae, expedita nobis accusamus suscipit libero sint. Accusamus saepe pariatur dignissimos atque eaque, eum harum!",
+        "image": "images/img-finger.svg"
+    }
+]
